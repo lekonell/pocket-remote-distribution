@@ -1,0 +1,623 @@
+{
+  "release": {
+    "channel": "external",
+    "version": "0.9.21",
+    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.21.zip",
+    "bytes": 613056,
+    "sha256": "cda4f7ce4cabe9c14365a4689b8638b4ed6aec5000e5231c415ca97431178de8",
+    "files": {
+      "bridge/activity.mjs": {
+        "bytes": 3994,
+        "sha256": "9921031d8660da8394bed3470b3db25c88037e78245db4c182b3ec8a90b242fd"
+      },
+      "bridge/agents.mjs": {
+        "bytes": 7794,
+        "sha256": "18b6654b38c277251d5100533efabf92407926e1208d1ef795a24bdfce534574"
+      },
+      "bridge/build-installer.py": {
+        "bytes": 3624,
+        "sha256": "5d15fe4b0fc9e0deb7759a71d8298134cf589bfcf676e97de01ec9b601723afd"
+      },
+      "bridge/capacity-retry.mjs": {
+        "bytes": 9621,
+        "sha256": "ca53d689cf6a4a9d1a2dd8acafaea5203b0380975c229f0e993834f504a99ef7"
+      },
+      "bridge/catalog.mjs": {
+        "bytes": 1834,
+        "sha256": "96c388ad6d8077d2220ea82ff6f5d309098f4f17bacf19cbef8b217021dabc52"
+      },
+      "bridge/changes.mjs": {
+        "bytes": 17216,
+        "sha256": "6be8361a2d3f177e3c48a1edf91c488cfd000980ae0c8c5b354c56d556b0fbc6"
+      },
+      "bridge/delivery.mjs": {
+        "bytes": 1560,
+        "sha256": "337fd4cf18a43696649a665b3139eb209c5cf72a9c79854835c1ea99509e3648"
+      },
+      "bridge/desktop-proxy.mjs": {
+        "bytes": 2932,
+        "sha256": "b0e16a724ceaa3b454fad508b279efb971e1a577bf2c7368509e4fad81380c99"
+      },
+      "bridge/desktop-switch.mjs": {
+        "bytes": 3803,
+        "sha256": "d3b4495c02bac1ad71ef718bbe54cadbafe651ad0d9933f4a1073c6209cc7d56"
+      },
+      "bridge/dots.mjs": {
+        "bytes": 18897,
+        "sha256": "3aebdea98061660cd6d772aa7b42f7248e9631171a1b37b15e1208e8b1626cc5"
+      },
+      "bridge/endpoint.mjs": {
+        "bytes": 511,
+        "sha256": "ee9ea8549bcb85bd559ecebc14b83c2f2c7812b53918762e5399a5854b932b1d"
+      },
+      "bridge/execution.mjs": {
+        "bytes": 6216,
+        "sha256": "ad9f270c6d78ca9f18a6b09f557043cd7b3ab3b81997a2bc660e472e9faa9425"
+      },
+      "bridge/git-changes.mjs": {
+        "bytes": 6039,
+        "sha256": "c84f1ca7ed662b208fab13a2e4f0b037f9a5adf2a987b9d9f6257826d6ce9b5d"
+      },
+      "bridge/goals.mjs": {
+        "bytes": 7490,
+        "sha256": "70a01dab42b2591ebc73e94fecc1f60aca65ca27c2487f2a95575b1a6da181a0"
+      },
+      "bridge/history.mjs": {
+        "bytes": 5317,
+        "sha256": "9a9358603192e43ad3c9a9da9f6e21b626ade3c4cedeb23fa09041cb76b03d9e"
+      },
+      "bridge/host-settings.mjs": {
+        "bytes": 743,
+        "sha256": "54d5b629215fc82e2b28a95884f55fc04f055b8d5f4680f733c6fc2ffe7c5cc1"
+      },
+      "bridge/host.mjs": {
+        "bytes": 5891,
+        "sha256": "871474cc97d4f209f7cdfc3e0ac88ec454280f20f8f1b74436c62dc9cfa4b175"
+      },
+      "bridge/media.mjs": {
+        "bytes": 12079,
+        "sha256": "a56dde29aaa3558410be43eaa2e12f8117b387ba75b90571022683947de7dcda"
+      },
+      "bridge/native-client.mjs": {
+        "bytes": 1914,
+        "sha256": "35e88cdb0e5f951a3013c41e3fe4496f7406a9bcb95c63a2dc48904f5cef711f"
+      },
+      "bridge/notifications.mjs": {
+        "bytes": 27208,
+        "sha256": "4582eddbad2fe6c5de5e2549b52d675d31637ad005a64523d359ca438074d3d1"
+      },
+      "bridge/pairing-qr.mjs": {
+        "bytes": 983,
+        "sha256": "2018fd153b21c0ab2ce2b6e039dc396dbc469c082cb91e177794b3cd2f30d6a4"
+      },
+      "bridge/pairing.mjs": {
+        "bytes": 2130,
+        "sha256": "afc3dae22f4598ef95f708cbffd9f1ab2c09cfd8216cad8d5a893795a91a0de5"
+      },
+      "bridge/pc-updates.mjs": {
+        "bytes": 11131,
+        "sha256": "da5c2d13a16c26b9836198b8e76424320cc89ec5530c4e55cce779a339f1e807"
+      },
+      "bridge/queue.mjs": {
+        "bytes": 10089,
+        "sha256": "0380c86e535de17dea940c8eab04cc6edea83f4a1744dcab4981224e78c8308e"
+      },
+      "bridge/relay-login.mjs": {
+        "bytes": 1472,
+        "sha256": "a00a5eacf05e8a164f80d5f0809917428b4f794ad49977305fd6837e74f600f7"
+      },
+      "bridge/relay-server.py": {
+        "bytes": 12299,
+        "sha256": "13f0a4cc1f84c8723536355e20e8fd7afc577ad6753bb5da72dcbcb8061b54ee"
+      },
+      "bridge/relay-setup.mjs": {
+        "bytes": 9742,
+        "sha256": "5ddd54bc51f09766e28193aa3d8584f82e56f54dd396924443547415d44f52d9"
+      },
+      "bridge/server.mjs": {
+        "bytes": 26201,
+        "sha256": "b65792c9a48dadc5f90c05523e7db1e09c5a997b28571f205ef6510ffc29bd91"
+      },
+      "bridge/settings.mjs": {
+        "bytes": 2325,
+        "sha256": "80d7eefbfada1e59295fecab404b22b7a473f1b7deff3ee1e21eb83669828c52"
+      },
+      "bridge/settings.ps1": {
+        "bytes": 2828,
+        "sha256": "c2fbf7a86723aec14ccfe8ad708c5b1d7deac07963dd5e137eab087eab0b9d5e"
+      },
+      "bridge/setup-config.mjs": {
+        "bytes": 4638,
+        "sha256": "89c401c1143dcdb2bd800f53c4214cceb669739521f444c887a1fd949a7c2a55"
+      },
+      "bridge/setup-host.ps1": {
+        "bytes": 6716,
+        "sha256": "04a5517cd1b431fa2fc8591a791cd1625ff26b4b3ae0414a1a4204cf2c68fc47"
+      },
+      "bridge/setup-test.mjs": {
+        "bytes": 1092,
+        "sha256": "3df8b65db36df4cba7ecdd2b5d6bf7a3bfdf458bbab661935ee1041f3d066a7e"
+      },
+      "bridge/setup-update.ps1": {
+        "bytes": 5417,
+        "sha256": "5ecf20bdb7288b6e17ca8bce8b285f84b6efce62c0eb73c0d26a390f0cc06fac"
+      },
+      "bridge/shared-server.mjs": {
+        "bytes": 4704,
+        "sha256": "67872a966c176b9b5d9c5c7b0ae9c6736c73869430b73120c95b1ca2674f5bf1"
+      },
+      "bridge/sign-update.mjs": {
+        "bytes": 1367,
+        "sha256": "7dcad8babaed9860e153a96a732bef8656c5a647c3c69eb3a2d762a3c987baef"
+      },
+      "bridge/subscriptions.mjs": {
+        "bytes": 1338,
+        "sha256": "bc25341f501ab710027234910af097f2cef8bea6369dc8457e72d8a5766bf899"
+      },
+      "bridge/thread-source.mjs": {
+        "bytes": 827,
+        "sha256": "d97ccd145a932e29c16f5c23b601aa53a9f5f406bee412c4553b252c4bf59846"
+      },
+      "bridge/thread-titles.mjs": {
+        "bytes": 3974,
+        "sha256": "4fefe8f9770c8e5e46fef0149b0893f2fd4b68b9e02a671868a393522bacc92a"
+      },
+      "bridge/update-key.mjs": {
+        "bytes": 225,
+        "sha256": "3ce0aed6c2acbd0a8e421b1de507e0e183192d85f07747e6c27e14a1d5d5ff59"
+      },
+      "bridge/update-worker.mjs": {
+        "bytes": 5479,
+        "sha256": "2482c6c43f1b808233b705bf58b4e7d84d5fa2af577266bdaf0f6d3bdcb7278b"
+      },
+      "bridge/uploads.mjs": {
+        "bytes": 5312,
+        "sha256": "707080c9ee6b5c98f26c39e10b3dad297abcb498b430c3ea5ff1bc54d0de7e03"
+      },
+      "bridge/upstream.mjs": {
+        "bytes": 4651,
+        "sha256": "0328f97b9a17aecafd043ef7e7b3239b90719078420260de664017efe766350c"
+      },
+      "launcher/RemoteHostLauncher.cs": {
+        "bytes": 17199,
+        "sha256": "a679721da9f70b58523d0da6e4b41eeb1a9d635feca07019acddc1014348d227"
+      },
+      "launcher/RemoteInstaller.cs": {
+        "bytes": 7538,
+        "sha256": "1c3cb20f09f3c205f871e03169089c32337dedb12e2f1e329dcd3e6b28b92054"
+      },
+      "launcher/RemoteSetupWizard.cs": {
+        "bytes": 41308,
+        "sha256": "e319079397b2e5b0d8766b0504ae51c203301bc30723a1e0d3f106daabae3813"
+      },
+      "docs/PC-SETTINGS.md": {
+        "bytes": 3251,
+        "sha256": "f972903914dc6a40d817fcff8b9509496454ec4521eb581b77d1954697173e30"
+      },
+      "app/src/main/assets/account-credits.js": {
+        "bytes": 1985,
+        "sha256": "64327b20fb25079e03dfc1fc0f767469cb69201c8899791c3dda12552105cea0"
+      },
+      "app/src/main/assets/app-icon.png": {
+        "bytes": 18163,
+        "sha256": "6f11ca5ed003fddf19a86955c9e678a73e768749a93b1a01fb127ddc7c2c139b"
+      },
+      "app/src/main/assets/app-updates.css": {
+        "bytes": 630,
+        "sha256": "ec2ac9e54e2827bf5de36bc0905b8ceb35e759eaa32d5b2819542c17420db128"
+      },
+      "app/src/main/assets/app-updates.js": {
+        "bytes": 3712,
+        "sha256": "6691e29b41f031e82c55576b8cc6e336a58c803ee9c596004926626e5b519540"
+      },
+      "app/src/main/assets/app.js": {
+        "bytes": 63735,
+        "sha256": "dbd08df777af65c891e7df061edac8e9e46411035e835c3117479b2aa21c7f7e"
+      },
+      "app/src/main/assets/changes.js": {
+        "bytes": 11013,
+        "sha256": "362e3ea24cff2c34f8ebb6cca6b7b60dfa7bf47bb665cea51ceac928b9f30037"
+      },
+      "app/src/main/assets/dots.css": {
+        "bytes": 2820,
+        "sha256": "59d52555d6e52f1842f221449e1c59ea748ec3c0abfc372f781daaa391a0ee62"
+      },
+      "app/src/main/assets/dots.js": {
+        "bytes": 24623,
+        "sha256": "0dcd80aee9b8a73116c049a76b5faaf03c9bb04af1d85591347c14a1e883ea3e"
+      },
+      "app/src/main/assets/features.js": {
+        "bytes": 41093,
+        "sha256": "d85c34d12a14549a7b4ab383bd2f449929c571a0c7cca9d47ea91e721278c57c"
+      },
+      "app/src/main/assets/history.js": {
+        "bytes": 3548,
+        "sha256": "9eae5694898402b1fafb789b2c69c19e4ddd8a902c42dddb8e323bb5c68e1b32"
+      },
+      "app/src/main/assets/image-viewer.js": {
+        "bytes": 8175,
+        "sha256": "ae290dedac2171cadda9a19ee3266efcf9909fdf67415e06ec665025fed78fd9"
+      },
+      "app/src/main/assets/index.html": {
+        "bytes": 10938,
+        "sha256": "921582dee77769ae2379e03148b62efb54c1d0d76ff651c088efe3af890e95d2"
+      },
+      "app/src/main/assets/mentions.js": {
+        "bytes": 8982,
+        "sha256": "13136650ba990cdf4ea5aa756eb08e28ca2680e4c2f4f9953d5a151c794a5a8b"
+      },
+      "app/src/main/assets/message-copy.js": {
+        "bytes": 9733,
+        "sha256": "ad833922544a177d93bb5a3ee3ac83302a2ba404829a648d5c926458ef2daddb"
+      },
+      "app/src/main/assets/message-navigation.css": {
+        "bytes": 1248,
+        "sha256": "257ba7bfe326eac9c54be2deb5e2a82b47aee62e08d25d7c38ad3dd95eb224db"
+      },
+      "app/src/main/assets/message-navigation.js": {
+        "bytes": 9082,
+        "sha256": "c936ac314eb57678b4d7b52edf6ed618838b93e931961f9aa0df0c82c6c494a1"
+      },
+      "app/src/main/assets/profiles.js": {
+        "bytes": 24994,
+        "sha256": "b25213e90ca584b2a20f3348b9dd34ca9d9da9296fb5c6381f47d87accf70254"
+      },
+      "app/src/main/assets/reset-credits.css": {
+        "bytes": 2190,
+        "sha256": "660c7601fbe56484c765baae9fb405724cfcc1bb8f22a056381f3ec2dd9281fc"
+      },
+      "app/src/main/assets/reset-credits.js": {
+        "bytes": 13064,
+        "sha256": "1dc10d17782128dc4a2c6d5c2dc10932ee309110d6bf23745d15e89c0040711a"
+      },
+      "app/src/main/assets/session.css": {
+        "bytes": 6145,
+        "sha256": "2de65d53068a945c3a4b20355f97116104119a376e2677d69ed6ab5f82caa415"
+      },
+      "app/src/main/assets/session.js": {
+        "bytes": 20921,
+        "sha256": "e1ea8b1cfc1d05a4bdd9dbf0bbab6e2ba712eb6671c6e51644fcd44567e0fc18"
+      },
+      "app/src/main/assets/styles.css": {
+        "bytes": 16874,
+        "sha256": "7934ecf30ac95e9c1649d95dc279de4bd75ae704c081ec3106c162d9f473b34d"
+      },
+      "app/src/main/assets/v03.css": {
+        "bytes": 28997,
+        "sha256": "a19375c9d8a04fedf56b84f6b2ea4ab7423ac643bca1d5326b0f698b5e8085a5"
+      },
+      "app/src/main/assets/v03.js": {
+        "bytes": 53956,
+        "sha256": "30e93aa5974e20f20e127f98338f81b95dab68f7cf37288faa82ccf93a8b1ae1"
+      },
+      "app/src/main/assets/vendor/markdown-it.LICENSE": {
+        "bytes": 1073,
+        "sha256": "792c48c5a849a15fdf9e37e8bcf9e6d1dd13b32b46c642a748a0a46a9919d473"
+      },
+      "app/src/main/assets/vendor/markdown-it.min.js": {
+        "bytes": 115080,
+        "sha256": "635972b985228e8af9f0143647c68616b7a3bb09f6946e7e4a52e43dcf5e7be5"
+      },
+      "node_modules/ws/browser.js": {
+        "bytes": 176,
+        "sha256": "010da44addea1d88b2b732540c3f1fd0cbcb28926b96623d4c64222e0ead2d0e"
+      },
+      "node_modules/ws/index.js": {
+        "bytes": 796,
+        "sha256": "924564d5be26d59b9682c4263f68320e48dde7240bd2d1ad17ec305537429dd2"
+      },
+      "node_modules/ws/LICENSE": {
+        "bytes": 1183,
+        "sha256": "2b29dcfe0d6471f7e8c92c5fb38c9f93edee10330937055440192f1832b1ecef"
+      },
+      "node_modules/ws/package.json": {
+        "bytes": 1829,
+        "sha256": "c1ef91ca04eb4754c011c5f0e7638b5078ff71104fada400c44ac761cf93e0b1"
+      },
+      "node_modules/ws/README.md": {
+        "bytes": 15306,
+        "sha256": "bb979132f3cbff08ce47f36d041e18071f8f534d01f591c0b129ba7abf1e480e"
+      },
+      "node_modules/ws/wrapper.mjs": {
+        "bytes": 554,
+        "sha256": "fe154662301fd558f935f9c217fccbe7a7dac02ff39e648a000589403ff27c7f"
+      },
+      "node_modules/ws/lib/buffer-util.js": {
+        "bytes": 3056,
+        "sha256": "8b0a45739132f82e25ea13163780abf547ccfe989267f3eb7abb475beec92da3"
+      },
+      "node_modules/ws/lib/constants.js": {
+        "bytes": 503,
+        "sha256": "391e823142b8b370e55a2fd32b022deaf03b8415c56000009674ebc86a0b4f86"
+      },
+      "node_modules/ws/lib/event-target.js": {
+        "bytes": 7321,
+        "sha256": "c45d3c6e12d170c860c0c3f1a050aa0f864d9806632b609a1e607d675aba128c"
+      },
+      "node_modules/ws/lib/extension.js": {
+        "bytes": 6183,
+        "sha256": "852564f0f6b460287043803eae732666fb5610f676874354fc89f06aa4e986ed"
+      },
+      "node_modules/ws/lib/limiter.js": {
+        "bytes": 1034,
+        "sha256": "e0469d4b83f6ba764b15f80e1766b75c136fbff68f048f4c050f0b1c7f065f69"
+      },
+      "node_modules/ws/lib/permessage-deflate.js": {
+        "bytes": 14669,
+        "sha256": "16a91536988a53c23047ee5882392068728a839a244178c3b09b8c54982f58b0"
+      },
+      "node_modules/ws/lib/receiver.js": {
+        "bytes": 17439,
+        "sha256": "a6ada33c9a2d54eaf595824b821ea89ca2c6395f89aa06755c52142148274884"
+      },
+      "node_modules/ws/lib/sender.js": {
+        "bytes": 16886,
+        "sha256": "d0791d30c3defd44dcabbddb879a901c757993fea2c00a7ffea01d53b23b4b77"
+      },
+      "node_modules/ws/lib/stream.js": {
+        "bytes": 4204,
+        "sha256": "a56fcb6e2b152097ee820b6f5410b1f71e59819b45d08d9f8bda588fe39070ec"
+      },
+      "node_modules/ws/lib/subprotocol.js": {
+        "bytes": 1498,
+        "sha256": "be3f6323d6f549568577dcba9004c1479d95c65a7abb0fe0c582875b9fac0b7c"
+      },
+      "node_modules/ws/lib/validation.js": {
+        "bytes": 3903,
+        "sha256": "41ce8e83d0d434132e1704895fedb91f6703a701b42d91c80954ab29b2845593"
+      },
+      "node_modules/ws/lib/websocket-server.js": {
+        "bytes": 17022,
+        "sha256": "6d8dd89a841748c80445fd5fcdb5ba8005369b53cc3525135e11304c8b9c55e5"
+      },
+      "node_modules/ws/lib/websocket.js": {
+        "bytes": 37848,
+        "sha256": "7ccf305925f0cdb74e06b75b4c84de134b1bd771a220ef409b24520def08128f"
+      },
+      "node_modules/qrcode-generator/package.json": {
+        "bytes": 821,
+        "sha256": "0c8db18ad7f1b9dece93dd87dc0624be938f9b9b21e93c0f78e6e2d194ac10e9"
+      },
+      "node_modules/qrcode-generator/README.md": {
+        "bytes": 3711,
+        "sha256": "e2e665eb157725a8543c37951b064f58c564eb38f8507bf34309c39f58db6003"
+      },
+      "node_modules/qrcode-generator/web-test-runner.config.mjs": {
+        "bytes": 123,
+        "sha256": "d66e8ba617f31bf5eabed0a82e9bc1e7ce709e370e2667f8a00e286242d2c35b"
+      },
+      "node_modules/qrcode-generator/dist/qrcode.d.ts": {
+        "bytes": 1955,
+        "sha256": "4022c64559ce8370fe753aabb64cfa5ebca968a59dd1e7a3d14b30eee5a4b386"
+      },
+      "node_modules/qrcode-generator/dist/qrcode.js": {
+        "bytes": 56694,
+        "sha256": "79ec86f82856005b1c887905cfccfcfbec3821ca61c7fd5a952faa5f778f791c"
+      },
+      "node_modules/qrcode-generator/dist/qrcode.mjs": {
+        "bytes": 51907,
+        "sha256": "ea91d7118a5395289170da848b7c6758b996163bfbccf312591ab65a4911b7c0"
+      },
+      "node_modules/qrcode-generator/dist/qrcode_SJIS.js": {
+        "bytes": 39023,
+        "sha256": "7e911a12dbc45a800d5b991c9e448bce484f1399fc78066b759f8fe0714fb63d"
+      },
+      "node_modules/qrcode-generator/dist/qrcode_SJIS.mjs": {
+        "bytes": 38770,
+        "sha256": "77e30eb5ccf1cfab3f0c1742fd60d3cc6723b238c5238f2cccc24a751fe9bd6b"
+      },
+      "node_modules/qrcode-generator/dist/qrcode_UTF8.js": {
+        "bytes": 793,
+        "sha256": "e522d64003b332e29271fdce4993ed3ae2934c8947f41654bd324ddcfa2de301"
+      },
+      "node_modules/qrcode-generator/dist/qrcode_UTF8.mjs": {
+        "bytes": 1573,
+        "sha256": "b06a0931c600eb94557c7949af2b0addfbd7fb56928b27859edec50f26919560"
+      },
+      "node_modules/qrcode-generator/experiment/vt/package-lock.json": {
+        "bytes": 215868,
+        "sha256": "06aacc94de57377e99c95a66ed248a2e9ce886f796e70ed9d39933b3c9629c87"
+      },
+      "node_modules/qrcode-generator/experiment/vt/package.json": {
+        "bytes": 395,
+        "sha256": "53c820347d8f9d9981858a7f60a7cbd5ed556cdaae51b1f7e2c692b82c1e9b16"
+      },
+      "node_modules/qrcode-generator/experiment/vt/tsconfig.json": {
+        "bytes": 607,
+        "sha256": "e91cb60c51cfe9567e7dd1cbbd4b56f706990c84a0471cb8e4d0bc5f9e31f58e"
+      },
+      "node_modules/qrcode-generator/experiment/vt/vite.config.js": {
+        "bytes": 823,
+        "sha256": "9ee91a5f68046a75b64b635ed58224835611f3fce26e48152694a639f6a17e44"
+      },
+      "node_modules/qrcode-generator/experiment/vt/web-test-runner.config.mjs": {
+        "bytes": 103,
+        "sha256": "c529446f918b91a8e849b9ab28c752d1dbacb672dce4f5f1caa58311ed98f283"
+      },
+      "node_modules/qrcode-generator/experiment/vt/src/main/qrcode.ts": {
+        "bytes": 54867,
+        "sha256": "50bc112ef0bbdde915eacb247dfe1833eeaa26ace60b505289b8b9b4265f90cc"
+      },
+      "node_modules/qrcode-generator/experiment/vt/src/main/qrcode_SJIS.ts": {
+        "bytes": 38791,
+        "sha256": "d275c0180fe4e42e9fe8d775bc6ea6f2db693cd243ed4c56e1b6c21cffbe1e44"
+      },
+      "node_modules/qrcode-generator/experiment/vt/src/main/qrcode_UTF8.ts": {
+        "bytes": 1580,
+        "sha256": "fe628b91bb76bb37e5cdca972265d4c0fe2d77b1191830b4b677842ee937821b"
+      },
+      "node_modules/qrcode-generator/experiment/vt/src/main/types.ts": {
+        "bytes": 2397,
+        "sha256": "22aaa5198dd68833470618c081dee2af30320329624127de0bc61a3abd61031d"
+      },
+      "node_modules/qrcode-generator/experiment/vt/src/test/qrcode-test-impl.js": {
+        "bytes": 21084,
+        "sha256": "7b5de364880ee6f0bee7e386eb8ca10b1a2103734cdc4ebb885aa64ed838fc38"
+      },
+      "node_modules/qrcode-generator/experiment/vt/src/test/qrcode.test.mjs": {
+        "bytes": 122,
+        "sha256": "46e585c7355ccf757f30fca1580ebb170e92f13dcf05d4f673db06d4f05767f7"
+      },
+      "node_modules/qrcode-generator/experiment/vt/src/test/qrcode_SJIS.test.mjs": {
+        "bytes": 277,
+        "sha256": "118509f1165ba7c2c0cfaa7afbf65f36935981719a258cd21c83190eea764bf3"
+      },
+      "node_modules/qrcode-generator/experiment/vt/src/test/qrcode_UTF8.test.mjs": {
+        "bytes": 286,
+        "sha256": "96f0af1b85250d20c6e13a89c46c451511c9aba16d4532546f44700a112aad16"
+      },
+      "node_modules/qrcode-generator/test/qrcode-test-impl.js": {
+        "bytes": 21084,
+        "sha256": "7b5de364880ee6f0bee7e386eb8ca10b1a2103734cdc4ebb885aa64ed838fc38"
+      },
+      "node_modules/qrcode-generator/test/qrcode.test.html": {
+        "bytes": 356,
+        "sha256": "32701cd41d02cc327ce0f7eeaf53ff22e155e842af6e5c4cbe1f8338d88d5e2c"
+      },
+      "node_modules/qrcode-generator/test/qrcode.test.mjs": {
+        "bytes": 119,
+        "sha256": "b78e8ce04755325d30a40e36667e90cfcdcbc99bb8647f9815be4793cf55ea27"
+      },
+      "node_modules/qrcode-generator/test/qrcode_SJIS.test.html": {
+        "bytes": 462,
+        "sha256": "1b1e3416443d342adfb9df165ce73175543445f95202fc7a81ec6199307f1448"
+      },
+      "node_modules/qrcode-generator/test/qrcode_SJIS.test.mjs": {
+        "bytes": 271,
+        "sha256": "60724bfc8b3e1092755b5f2aefa8f67dbb5c7322e2563caa8e3983aaa3438673"
+      },
+      "node_modules/qrcode-generator/test/qrcode_UTF8.test.html": {
+        "bytes": 400,
+        "sha256": "086be5311596c494a130c840992c65eac21f60beb22423d9c676ce96d253c908"
+      },
+      "node_modules/qrcode-generator/test/qrcode_UTF8.test.mjs": {
+        "bytes": 277,
+        "sha256": "eb8645e04c881849f12a1bff294f79af549f189150b1b092184a546070d3d1c8"
+      },
+      "APPLY-SHARED-DESKTOP.ps1": {
+        "bytes": 7386,
+        "sha256": "07c670c7b72a34769a5ef7211c489e5f89a0dcfd2d8dc11467fc42c4d173bcb5"
+      },
+      "BUILD-LAUNCHER.ps1": {
+        "bytes": 2526,
+        "sha256": "a661b0909724350845c13e0d781f6a52f17c9c5ea7103fefd5763055dc5e7987"
+      },
+      "BUILD-RELEASE.ps1": {
+        "bytes": 1114,
+        "sha256": "ceca2bd57ed245adb01ac056196ace71455cc3101f0c2d359683a3999df850b8"
+      },
+      "CONFIGURE-ENDPOINT.ps1": {
+        "bytes": 942,
+        "sha256": "c36a1f94a9783fa4370245384455df947e2479264ffb70bc68536170b19563b2"
+      },
+      "ENABLE-SHARED-DESKTOP.ps1": {
+        "bytes": 5811,
+        "sha256": "082c40018c96e8315af38f9807442a805b2edcad398c6c82953eb6c089b19aac"
+      },
+      "INSTALL-AUTOSTART.ps1": {
+        "bytes": 2486,
+        "sha256": "8038cb3cc9a3e3fbae03310c837614dd980b1d7b8caecaac308ef3c3766d69d4"
+      },
+      "INSTALL-PC.ps1": {
+        "bytes": 7084,
+        "sha256": "c925f7c0bcaf3dad4dc2c320f2b7475216bc9a644d17adc79e0358bc5e1b393f"
+      },
+      "RESTORE-DESKTOP.ps1": {
+        "bytes": 2079,
+        "sha256": "1373fcf477ad1b412a19b9711a3267492bf56e099d3daecf93762743599b697a"
+      },
+      "RUN-REMOTE.ps1": {
+        "bytes": 1342,
+        "sha256": "60006a41b489cbcc3935b3e89a294275e643bd2430e3dd1e23c1bb249d6df2c6"
+      },
+      "SETUP-FIREWALL.ps1": {
+        "bytes": 730,
+        "sha256": "9919d1f9cb083d2106666ede347450033d28ccfcf5c973bc5ec38ea32956a0ca"
+      },
+      "SETUP-RELAY-LOGIN.ps1": {
+        "bytes": 1426,
+        "sha256": "c117c34e58e1c7acdfde9cb47534832ce0a3df163663dbc8c6f0e2692f6c65c5"
+      },
+      "SETUP-REMOTE.ps1": {
+        "bytes": 18504,
+        "sha256": "e885794436dd24bcba7fae4d6c944bc1d4061d7b45fc7af90e0bf90b2751615c"
+      },
+      "SHOW-CONNECTION.ps1": {
+        "bytes": 435,
+        "sha256": "3eba11ff79aadeed657267914e255d2a1061bd118aecd075f7b55e3046799485"
+      },
+      "STOP-REMOTE.ps1": {
+        "bytes": 348,
+        "sha256": "cbbc76a0cf6652f470ac7214dfb6893ea2f17435eee6d354b9416110f6d7eea1"
+      },
+      "UPDATE-PC.ps1": {
+        "bytes": 8061,
+        "sha256": "7fdcbb48b0bbc76c12a1436e41662df95179464edd0a7d192bddc2ee785ff895"
+      },
+      "distribution.json": {
+        "bytes": 24,
+        "sha256": "7d2a53e9c4f05eca53aee36a338a7d82f6cc2073116f7fb7ad2147014afe6723"
+      },
+      "README.md": {
+        "bytes": 1026,
+        "sha256": "399b116702b0064e183c87cb126e844e37366a5311031553c3f5cb9ded52d02e"
+      },
+      "REQUIREMENTS.md": {
+        "bytes": 1026,
+        "sha256": "399b116702b0064e183c87cb126e844e37366a5311031553c3f5cb9ded52d02e"
+      },
+      "ENDPOINT.md": {
+        "bytes": 1026,
+        "sha256": "399b116702b0064e183c87cb126e844e37366a5311031553c3f5cb9ded52d02e"
+      },
+      "SHARED-DESKTOP.md": {
+        "bytes": 1026,
+        "sha256": "399b116702b0064e183c87cb126e844e37366a5311031553c3f5cb9ded52d02e"
+      },
+      "VERIFICATION.md": {
+        "bytes": 1026,
+        "sha256": "399b116702b0064e183c87cb126e844e37366a5311031553c3f5cb9ded52d02e"
+      },
+      "PERFORMANCE.md": {
+        "bytes": 1026,
+        "sha256": "399b116702b0064e183c87cb126e844e37366a5311031553c3f5cb9ded52d02e"
+      },
+      "package.json": {
+        "bytes": 1553,
+        "sha256": "5f9660fb360d529f8777399dcc15f4c0aa5bae21c377ebef4cfcd92ed52b6490"
+      },
+      "package-lock.json": {
+        "bytes": 4659,
+        "sha256": "b044e131cad6bf13553e47fe595101a28624a0819ea9e8a0bc550327e1f5e960"
+      },
+      "START-REMOTE.cmd": {
+        "bytes": 488,
+        "sha256": "7bbcb068877fa76a88ac69e901ffa41f9fea3630495491ab3b2aab7177e864f7"
+      },
+      "START-BRIDGE.cmd": {
+        "bytes": 138,
+        "sha256": "651f1b5de8df729f1b16865b16b2c466969e544ef03277226d913af50abaec14"
+      },
+      "endpoint.example.json": {
+        "bytes": 241,
+        "sha256": "e9622a1fb85c6a8c054ae74b545cf9e050a150341edca2324d3136c8f875fcd7"
+      },
+      "PocketRemoteHost.exe": {
+        "bytes": 19968,
+        "sha256": "149c4bd0270e6fd3e4e5cd26e246a834718bc94856f97647ab45d4d6dc1a42fe"
+      },
+      "PocketRemoteSetup.exe": {
+        "bytes": 54784,
+        "sha256": "ecb4f8845785e32769b07f45fce3c566c7ee6441e6f27a544af1b25cad7cfde7"
+      }
+    },
+    "android": {
+      "version": "0.9.21",
+      "versionCode": 39,
+      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.21/PocketRemote-External-0.9.21.apk",
+      "bytes": 3308293,
+      "sha256": "0261b046d5603356b5d637a9a3f100486c90f022e60d35e51425f9feb240fdae"
+    }
+  },
+  "signature": "mzEbhysFdWHfnBsOlCYJYlnyr8UTXcCmNKHDv5tygCtxYiOX7QfmTSpP3aIWXzjeW4jZpS3wSxsz1QQ01no9Bw=="
+}
