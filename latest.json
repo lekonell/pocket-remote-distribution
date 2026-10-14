@@ -1,18 +1,18 @@
 {
   "release": {
     "channel": "external",
-    "version": "0.9.22",
-    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.22.zip",
-    "bytes": 614580,
-    "sha256": "c1fed520d3ae74e9a65c6315f8142917ab712f6151009dfa139c39f19447acd0",
+    "version": "0.9.23",
+    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.23.zip",
+    "bytes": 617274,
+    "sha256": "b4d1b3c29f06c4a9ac23e03efabc57c87b875517232f1030352154d33496afc4",
     "files": {
       "bridge/activity.mjs": {
         "bytes": 3994,
         "sha256": "9921031d8660da8394bed3470b3db25c88037e78245db4c182b3ec8a90b242fd"
       },
       "bridge/agents.mjs": {
-        "bytes": 7794,
-        "sha256": "18b6654b38c277251d5100533efabf92407926e1208d1ef795a24bdfce534574"
+        "bytes": 9446,
+        "sha256": "325941106812c0c2c0eaf7e73a7fbc4a66ef4f23c2690068db26daa80f97fd3d"
       },
       "bridge/build-installer.py": {
         "bytes": 3624,
@@ -95,8 +95,8 @@
         "sha256": "afc3dae22f4598ef95f708cbffd9f1ab2c09cfd8216cad8d5a893795a91a0de5"
       },
       "bridge/pc-updates.mjs": {
-        "bytes": 11131,
-        "sha256": "da5c2d13a16c26b9836198b8e76424320cc89ec5530c4e55cce779a339f1e807"
+        "bytes": 11171,
+        "sha256": "7dc93a933b1d7af0b80c5b56e2f8d8065f320dde29fe8c3e54ba49ff3b8de46b"
       },
       "bridge/queue.mjs": {
         "bytes": 10089,
@@ -114,9 +114,13 @@
         "bytes": 9742,
         "sha256": "5ddd54bc51f09766e28193aa3d8584f82e56f54dd396924443547415d44f52d9"
       },
+      "bridge/run-update.ps1": {
+        "bytes": 1212,
+        "sha256": "6ad1a41fc77f86785c5999695d6ea927a56cb7476d57569d15e0ac62bda24f69"
+      },
       "bridge/server.mjs": {
-        "bytes": 26274,
-        "sha256": "5540c208990e2c02ebf66054f98b89291a17551caca8904d989670f59d7537e5"
+        "bytes": 26423,
+        "sha256": "dda3a3213279708c2ded5408e675d6a3847ad2491255f23680bb6756d8318f76"
       },
       "bridge/settings.mjs": {
         "bytes": 2325,
@@ -139,8 +143,8 @@
         "sha256": "3df8b65db36df4cba7ecdd2b5d6bf7a3bfdf458bbab661935ee1041f3d066a7e"
       },
       "bridge/setup-update.ps1": {
-        "bytes": 5417,
-        "sha256": "5ecf20bdb7288b6e17ca8bce8b285f84b6efce62c0eb73c0d26a390f0cc06fac"
+        "bytes": 5441,
+        "sha256": "ade641d33a1e211c90fd92a149d375a56bba8fde1377e9c683ab476ba3a92bb7"
       },
       "bridge/shared-server.mjs": {
         "bytes": 4704,
@@ -167,8 +171,8 @@
         "sha256": "3ce0aed6c2acbd0a8e421b1de507e0e183192d85f07747e6c27e14a1d5d5ff59"
       },
       "bridge/update-worker.mjs": {
-        "bytes": 5479,
-        "sha256": "2482c6c43f1b808233b705bf58b4e7d84d5fa2af577266bdaf0f6d3bdcb7278b"
+        "bytes": 6662,
+        "sha256": "18bec5c425fb07c33c52d56a3263dba13a58a11b9e09f3154c6ea04bcf28eee2"
       },
       "bridge/uploads.mjs": {
         "bytes": 5312,
@@ -179,8 +183,8 @@
         "sha256": "0328f97b9a17aecafd043ef7e7b3239b90719078420260de664017efe766350c"
       },
       "launcher/RemoteHostLauncher.cs": {
-        "bytes": 17199,
-        "sha256": "04c17f0f7aca223726ab78b768b10ff1bf9336277d72421ebc3f28ec3763b882"
+        "bytes": 17219,
+        "sha256": "a2464b1ccb9a5de4f625d7d80860581092902c14b99b3ecaea164fc301684650"
       },
       "launcher/RemoteInstaller.cs": {
         "bytes": 7538,
@@ -188,11 +192,11 @@
       },
       "launcher/RemoteSetupWizard.cs": {
         "bytes": 41308,
-        "sha256": "2c80cf110b7c2d65bdbc3e0602b47d6f0b6b19b13d3b11765e54a533e48a6450"
+        "sha256": "5ff2f2e43a61f57af84dbc9aecebab9e41fc09142ce225a0e728f999550b72c6"
       },
       "docs/PC-SETTINGS.md": {
-        "bytes": 3251,
-        "sha256": "f972903914dc6a40d817fcff8b9509496454ec4521eb581b77d1954697173e30"
+        "bytes": 3875,
+        "sha256": "215b827df23b74456e518d9009c3d6a41a3a2ac24ea5a9933e49e06b280dc7c0"
       },
       "app/src/main/assets/account-credits.js": {
         "bytes": 1985,
@@ -211,8 +215,8 @@
         "sha256": "6691e29b41f031e82c55576b8cc6e336a58c803ee9c596004926626e5b519540"
       },
       "app/src/main/assets/app.js": {
-        "bytes": 63735,
-        "sha256": "dbd08df777af65c891e7df061edac8e9e46411035e835c3117479b2aa21c7f7e"
+        "bytes": 64955,
+        "sha256": "e7fee46d6c0c1d8724a5919880fa13265e23f2abc4469e9c0ea5e4ac91e7bce1"
       },
       "app/src/main/assets/changes.js": {
         "bytes": 11013,
@@ -231,8 +235,8 @@
         "sha256": "d85c34d12a14549a7b4ab383bd2f449929c571a0c7cca9d47ea91e721278c57c"
       },
       "app/src/main/assets/history.js": {
-        "bytes": 3548,
-        "sha256": "9eae5694898402b1fafb789b2c69c19e4ddd8a902c42dddb8e323bb5c68e1b32"
+        "bytes": 3556,
+        "sha256": "69807c7b66cc4ae59ef0b79f7a179df5d046aa8d0a8e06d5b803c88f056e8a6c"
       },
       "app/src/main/assets/image-viewer.js": {
         "bytes": 8175,
@@ -240,7 +244,7 @@
       },
       "app/src/main/assets/index.html": {
         "bytes": 10938,
-        "sha256": "46cbc3eeccdbc091bae13f82cc222475a4176bb7b549914a80b0668385e4f67f"
+        "sha256": "07eca38b24b24d9d4e3e6c0bf0059e673490895be4c7b1039d726b91577683b5"
       },
       "app/src/main/assets/mentions.js": {
         "bytes": 8982,
@@ -275,8 +279,8 @@
         "sha256": "2de65d53068a945c3a4b20355f97116104119a376e2677d69ed6ab5f82caa415"
       },
       "app/src/main/assets/session.js": {
-        "bytes": 20921,
-        "sha256": "e1ea8b1cfc1d05a4bdd9dbf0bbab6e2ba712eb6671c6e51644fcd44567e0fc18"
+        "bytes": 21197,
+        "sha256": "a1361c1d078b24394acb7d312500e9c8fb1fa6f6343fabbba5cf655e8c8c66a8"
       },
       "app/src/main/assets/styles.css": {
         "bytes": 16874,
@@ -287,8 +291,8 @@
         "sha256": "a19375c9d8a04fedf56b84f6b2ea4ab7423ac643bca1d5326b0f698b5e8085a5"
       },
       "app/src/main/assets/v03.js": {
-        "bytes": 53956,
-        "sha256": "30e93aa5974e20f20e127f98338f81b95dab68f7cf37288faa82ccf93a8b1ae1"
+        "bytes": 54584,
+        "sha256": "9f79c2d863c58f0492259fd5b8f9c454a5ace215fa137561e94bd6dd2c8c881d"
       },
       "app/src/main/assets/vendor/markdown-it.LICENSE": {
         "bytes": 1073,
@@ -519,8 +523,8 @@
         "sha256": "8038cb3cc9a3e3fbae03310c837614dd980b1d7b8caecaac308ef3c3766d69d4"
       },
       "INSTALL-PC.ps1": {
-        "bytes": 7084,
-        "sha256": "c925f7c0bcaf3dad4dc2c320f2b7475216bc9a644d17adc79e0358bc5e1b393f"
+        "bytes": 6853,
+        "sha256": "603eb7ab59fad4f8a8419fcac4d812a4d637c865eaf5d4e8a556713124d1b52d"
       },
       "RESTORE-DESKTOP.ps1": {
         "bytes": 2079,
@@ -551,8 +555,8 @@
         "sha256": "cbbc76a0cf6652f470ac7214dfb6893ea2f17435eee6d354b9416110f6d7eea1"
       },
       "UPDATE-PC.ps1": {
-        "bytes": 8061,
-        "sha256": "7fdcbb48b0bbc76c12a1436e41662df95179464edd0a7d192bddc2ee785ff895"
+        "bytes": 8173,
+        "sha256": "05c405356fb4bfc7b01e01a11fe742ede95bc96eca0dd76d2273a4071b2ba771"
       },
       "distribution.json": {
         "bytes": 24,
@@ -584,11 +588,11 @@
       },
       "package.json": {
         "bytes": 1553,
-        "sha256": "bfc0ca60b1b2d52293f74556c6ec9b74a7a750ea581c600ba2c3e66a5e61d550"
+        "sha256": "de5b4dc0147f086af8f42a7f9099e08e51c51e589a66ad1e594825b83af452da"
       },
       "package-lock.json": {
         "bytes": 4659,
-        "sha256": "166fdcd796eb57a14b7dc30d957df829711928ff7a1789cf4725673624f798c7"
+        "sha256": "3ae8048706cfb6678ab707f73b02a45cd4b9685b8dbf2a54548cc0d7f9a5d74a"
       },
       "START-REMOTE.cmd": {
         "bytes": 488,
@@ -604,20 +608,20 @@
       },
       "PocketRemoteHost.exe": {
         "bytes": 19968,
-        "sha256": "d0948333f1caea32874927a61574e44d240f3337326a74209c49bc068af248a1"
+        "sha256": "e9c37ac2100f680950791324f085b4e1b4fbe2e490291f9dd86970cb7cb071df"
       },
       "PocketRemoteSetup.exe": {
         "bytes": 54784,
-        "sha256": "b522fd09c3edf4ba88c38a73f3f4f673bcc1b8a6e0678719e5de388d03ad0866"
+        "sha256": "53ac388b49c4fdc61c97e9e15a1441ae4e376a4a4058f194a628fbcf37d0677e"
       }
     },
     "android": {
-      "version": "0.9.22",
-      "versionCode": 40,
-      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.22/PocketRemote-External-0.9.22.apk",
-      "bytes": 3308293,
-      "sha256": "a612c7bd56688977a0473aaeca1f6e39b1a832daebb54bc78b3da8084d91b351"
+      "version": "0.9.23",
+      "versionCode": 41,
+      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.23/PocketRemote-External-0.9.23.apk",
+      "bytes": 3309065,
+      "sha256": "c72f0ef882c3219415724e6ce88d3d97c2e9da64f0452b5d661af0368bbdec9f"
     }
   },
-  "signature": "5Wq5GmLU9grZGoXCxoIa2kaHRdnN3UTgSlgkPx5yQpjlqHSQo2db8+CTiWQrx7eOuNGjV/KJRgiBmnN7LL31Cw=="
+  "signature": "OuCpLF1FTCc3AxsSCf0CBUVMBtrLZhL60sWAhefIzuQA5V4Qn1NWAqT4OkmybsyCoZ6FAL37gOp1wycFsDSzAA=="
 }
