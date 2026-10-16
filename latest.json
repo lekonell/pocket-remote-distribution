@@ -1,10 +1,10 @@
 {
   "release": {
     "channel": "external",
-    "version": "0.9.24",
-    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.24.zip",
-    "bytes": 618957,
-    "sha256": "6516091336794c70b93799d3d38c3ce7c6224d0e17f654bdd545247202d52110",
+    "version": "0.9.25",
+    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.25.zip",
+    "bytes": 627447,
+    "sha256": "7736dbb86ac6c2a7345413e7027ac4db57a93c3544a6ef43bcd6eabb2cb3fe6b",
     "files": {
       "bridge/activity.mjs": {
         "bytes": 3994,
@@ -31,8 +31,8 @@
         "sha256": "6be8361a2d3f177e3c48a1edf91c488cfd000980ae0c8c5b354c56d556b0fbc6"
       },
       "bridge/delivery.mjs": {
-        "bytes": 1665,
-        "sha256": "306b36095b60e6b676f896003b9b026c067c8e580a118d9a36ec45c345b5abcc"
+        "bytes": 1693,
+        "sha256": "944896c0a81e0d03212a3d6eed6668678c61be177cfc14c1e8bf89d4479511d1"
       },
       "bridge/desktop-proxy.mjs": {
         "bytes": 2932,
@@ -42,9 +42,13 @@
         "bytes": 3803,
         "sha256": "d3b4495c02bac1ad71ef718bbe54cadbafe651ad0d9933f4a1073c6209cc7d56"
       },
+      "bridge/dot-avatar.mjs": {
+        "bytes": 4262,
+        "sha256": "e94dc3186920bbd85788c999aa83dcc3a7d66805ac4ee821a57d816bf8bce768"
+      },
       "bridge/dots.mjs": {
-        "bytes": 20513,
-        "sha256": "48e02293b17ea69d18d7a5de52e516d277db29401f4ab6cec1aa2a88a44c8883"
+        "bytes": 23475,
+        "sha256": "2c473caa8c01f457361855b91017042fdd8ef5785f4b211ec2d2440fe285fe99"
       },
       "bridge/endpoint.mjs": {
         "bytes": 511,
@@ -63,8 +67,8 @@
         "sha256": "114b734ff858a0f753c34bf369624d3bf0c9f60ad48ac0cf6dc7624b723f3001"
       },
       "bridge/history.mjs": {
-        "bytes": 5925,
-        "sha256": "eadef6d1c57d5b07340a31c1b83febbc78329b524527fc748d0bb3d0226078dd"
+        "bytes": 6084,
+        "sha256": "bd901b5d472dbfa581fc31b05400d74fee565848dd74f56090687e30bf7856ea"
       },
       "bridge/host-settings.mjs": {
         "bytes": 743,
@@ -77,6 +81,10 @@
       "bridge/media.mjs": {
         "bytes": 12277,
         "sha256": "d5804cfb6179f51ab3b5092b7fe8ff0fbc6d575a42a68d8cd7020ced8c15127d"
+      },
+      "bridge/message-navigation.mjs": {
+        "bytes": 3932,
+        "sha256": "7b85efa6be97f64534834479ecd4df0518bcd563156b590e37388d77e631bb55"
       },
       "bridge/native-client.mjs": {
         "bytes": 1914,
@@ -119,8 +127,8 @@
         "sha256": "6ad1a41fc77f86785c5999695d6ea927a56cb7476d57569d15e0ac62bda24f69"
       },
       "bridge/server.mjs": {
-        "bytes": 26713,
-        "sha256": "b8c7c1bbbf7587cce2e2fa559115ee866347254a68439fa048f208289b8a3362"
+        "bytes": 27385,
+        "sha256": "37bb54e0e6710e1dacf383c61b17b197a7af63762c7c74311b46af267cd03e00"
       },
       "bridge/settings.mjs": {
         "bytes": 2325,
@@ -184,7 +192,7 @@
       },
       "launcher/RemoteHostLauncher.cs": {
         "bytes": 17219,
-        "sha256": "1b735160425130555c8b6d0f03cbeb9fcc2db1250588289e68e0b3b6ac879c78"
+        "sha256": "befc3c152101ef3d518923987db12d521d9fa8e240847d710ebc500a676c7366"
       },
       "launcher/RemoteInstaller.cs": {
         "bytes": 7538,
@@ -192,7 +200,7 @@
       },
       "launcher/RemoteSetupWizard.cs": {
         "bytes": 41308,
-        "sha256": "96a263025e624372b88dfdae72ddc249a63f1cc8ebc7b4afc88a3049b098b8d7"
+        "sha256": "380aabea148316fb4442c29e227116ccfb51d5da7b33bcf3d95a4bd791f5bc90"
       },
       "docs/PC-SETTINGS.md": {
         "bytes": 3875,
@@ -223,12 +231,12 @@
         "sha256": "46d01e0e1cdf6eff1aeb321f7ea2d78fa5b1c29dcb0d9fc703c481dcccb9c60a"
       },
       "app/src/main/assets/dots.css": {
-        "bytes": 2820,
-        "sha256": "59d52555d6e52f1842f221449e1c59ea748ec3c0abfc372f781daaa391a0ee62"
+        "bytes": 4768,
+        "sha256": "b187f61006805d4d95d51b0e8c4179665df1b300e47a065e18aed71ddf6348ba"
       },
       "app/src/main/assets/dots.js": {
-        "bytes": 26618,
-        "sha256": "e05abbbf10f530c0b35cf5e652890f2087ba4a3653f16bc07af152178a5fd1e4"
+        "bytes": 36169,
+        "sha256": "cd18d3af43ab43e43ba41afaa21552009fe84520188408aebc2a2b8abea6e542"
       },
       "app/src/main/assets/features.js": {
         "bytes": 41219,
@@ -244,7 +252,7 @@
       },
       "app/src/main/assets/index.html": {
         "bytes": 10938,
-        "sha256": "ad808edc9fd5c8f24f9092d80f3a848bf01af776562757ba7238de51b8f72f4d"
+        "sha256": "2f096a4ddf01e70fd3ec440c94c330bfa7d0ec7e406d790fcecbba1f7996583c"
       },
       "app/src/main/assets/mentions.js": {
         "bytes": 8982,
@@ -259,8 +267,8 @@
         "sha256": "257ba7bfe326eac9c54be2deb5e2a82b47aee62e08d25d7c38ad3dd95eb224db"
       },
       "app/src/main/assets/message-navigation.js": {
-        "bytes": 9082,
-        "sha256": "c936ac314eb57678b4d7b52edf6ed618838b93e931961f9aa0df0c82c6c494a1"
+        "bytes": 10321,
+        "sha256": "68b645769f8d794fd97caa852091bbc0af2a631585b13059639997dc5d40289f"
       },
       "app/src/main/assets/profiles.js": {
         "bytes": 24994,
@@ -588,11 +596,11 @@
       },
       "package.json": {
         "bytes": 1553,
-        "sha256": "3777b3cd119bdbd36ec8341d55bcd30b26dfc59d1c0cc53fa169e3e289e75fef"
+        "sha256": "6d5e29b8e319b3d8d47c16fc3657597b767328e03d9711846b076578a3b93f7a"
       },
       "package-lock.json": {
         "bytes": 4659,
-        "sha256": "b114ab72c6ae8a6fed72c5ea86fc526dc832586c6fa04097341911572ccfb653"
+        "sha256": "e53e1136d037d46f7a0f0d8622ba3d56acf6bee674d9f713694e463ca48160e7"
       },
       "START-REMOTE.cmd": {
         "bytes": 488,
@@ -608,20 +616,20 @@
       },
       "PocketRemoteHost.exe": {
         "bytes": 19968,
-        "sha256": "991ea3ff6d0ea8c21b3d3450dd0c163bbe3aa759ea1434de5ccb730aca57e987"
+        "sha256": "65d36adee3000aaede25b109c2a4306aff6e5a8b817d68a4021386bda75d424e"
       },
       "PocketRemoteSetup.exe": {
         "bytes": 54784,
-        "sha256": "8bf106fffb31e7222995209b1a28dc78ac3f60301698f9975009656558207261"
+        "sha256": "4fbdbe389552737afd8cd732910e072a7db3acfec111dcc5ddf054cdd3730b0a"
       }
     },
     "android": {
-      "version": "0.9.24",
-      "versionCode": 42,
-      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.24/PocketRemote-External-0.9.24.apk",
-      "bytes": 3310257,
-      "sha256": "855009cbe4cecadd52d8aa2171cd7594a54f647fc4e34daf887f1c1c4ef7d022"
+      "version": "0.9.25",
+      "versionCode": 43,
+      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.25/PocketRemote-External-0.9.25.apk",
+      "bytes": 3314725,
+      "sha256": "9b0ba382aba5e2dab4ebf0f7188a8e050faab3c6044de51696d4ac738b06a5e7"
     }
   },
-  "signature": "rJSc/VTPcIli6wuIrIrGiWpBx+guBdXMH4qMg0HO1KhoVQvxAZ4KE5fwc5x0+VUtiy3Zp4pdgoe3ASI8itlZCA=="
+  "signature": "4HTsqZrZ83aDpG9e9n9QmgkZVZV4WDp1lTtorMfbqQGsTw6QbqGGQodV/aBCSeWb2Bjiifi9cNw+ZwSR2/rADw=="
 }
