@@ -1,10 +1,10 @@
 {
   "release": {
     "channel": "external",
-    "version": "0.9.25",
-    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.25.zip",
-    "bytes": 627447,
-    "sha256": "7736dbb86ac6c2a7345413e7027ac4db57a93c3544a6ef43bcd6eabb2cb3fe6b",
+    "version": "0.9.26",
+    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.26.zip",
+    "bytes": 627838,
+    "sha256": "ebd41bdef13c66edc7bbc7ccac35b1793b94cb96c154b9256055a957287acd28",
     "files": {
       "bridge/activity.mjs": {
         "bytes": 3994,
@@ -192,7 +192,7 @@
       },
       "launcher/RemoteHostLauncher.cs": {
         "bytes": 17219,
-        "sha256": "befc3c152101ef3d518923987db12d521d9fa8e240847d710ebc500a676c7366"
+        "sha256": "4dc1096c020c7bd1bde8b59bc6abb6a4749bb39d414a13c08133f5dd1b886c83"
       },
       "launcher/RemoteInstaller.cs": {
         "bytes": 7538,
@@ -200,7 +200,7 @@
       },
       "launcher/RemoteSetupWizard.cs": {
         "bytes": 41308,
-        "sha256": "380aabea148316fb4442c29e227116ccfb51d5da7b33bcf3d95a4bd791f5bc90"
+        "sha256": "8d832474b055e65eea4e38cb3a99c0666ab144a9200ada0b88659d3ba5a2bdb0"
       },
       "docs/PC-SETTINGS.md": {
         "bytes": 3875,
@@ -239,8 +239,8 @@
         "sha256": "cd18d3af43ab43e43ba41afaa21552009fe84520188408aebc2a2b8abea6e542"
       },
       "app/src/main/assets/features.js": {
-        "bytes": 41219,
-        "sha256": "df36a3102b43ef8ceec29e3e8a9fae985dbfb8e37f696715b102a0cf760c7ca1"
+        "bytes": 41456,
+        "sha256": "791c1fb3c4f830ab1a78ced920827c62c432deb962d29c77f1e7538e26aa4d83"
       },
       "app/src/main/assets/history.js": {
         "bytes": 3556,
@@ -251,8 +251,8 @@
         "sha256": "ae290dedac2171cadda9a19ee3266efcf9909fdf67415e06ec665025fed78fd9"
       },
       "app/src/main/assets/index.html": {
-        "bytes": 10938,
-        "sha256": "2f096a4ddf01e70fd3ec440c94c330bfa7d0ec7e406d790fcecbba1f7996583c"
+        "bytes": 10987,
+        "sha256": "1543b06a1cfdb136bca94fdd6e1effb0c58aadb3d32082b3a6e159b0220ab448"
       },
       "app/src/main/assets/mentions.js": {
         "bytes": 8982,
@@ -291,12 +291,12 @@
         "sha256": "8c67709f9ecd3498bc92198dece438f38fe9e03830c3c80dc1d3b34479427294"
       },
       "app/src/main/assets/styles.css": {
-        "bytes": 16874,
-        "sha256": "7934ecf30ac95e9c1649d95dc279de4bd75ae704c081ec3106c162d9f473b34d"
+        "bytes": 16905,
+        "sha256": "cd5e180a319510561af131ffb6c53e68e3b96dcdbd77d2535d05faeac6441500"
       },
       "app/src/main/assets/v03.css": {
-        "bytes": 28997,
-        "sha256": "a19375c9d8a04fedf56b84f6b2ea4ab7423ac643bca1d5326b0f698b5e8085a5"
+        "bytes": 30037,
+        "sha256": "e252393801cca98d6f9a5c9d2580853942390189f6dbfe737aae14b28d952001"
       },
       "app/src/main/assets/v03.js": {
         "bytes": 54584,
@@ -596,11 +596,11 @@
       },
       "package.json": {
         "bytes": 1553,
-        "sha256": "6d5e29b8e319b3d8d47c16fc3657597b767328e03d9711846b076578a3b93f7a"
+        "sha256": "d0a9e860cc131f00ede557681b5d64f7a2b02a64a43a01a6db3cf50c23e6c296"
       },
       "package-lock.json": {
         "bytes": 4659,
-        "sha256": "e53e1136d037d46f7a0f0d8622ba3d56acf6bee674d9f713694e463ca48160e7"
+        "sha256": "09b36e0e7ea47e61ff240d38d36b7955bb45a7353d87f4617a4464f27600d239"
       },
       "START-REMOTE.cmd": {
         "bytes": 488,
@@ -616,20 +616,20 @@
       },
       "PocketRemoteHost.exe": {
         "bytes": 19968,
-        "sha256": "65d36adee3000aaede25b109c2a4306aff6e5a8b817d68a4021386bda75d424e"
+        "sha256": "5fcf2e7d7042b657874af678e8d72de979a8f5db8406baa0c8bfb58dce8deea9"
       },
       "PocketRemoteSetup.exe": {
         "bytes": 54784,
-        "sha256": "4fbdbe389552737afd8cd732910e072a7db3acfec111dcc5ddf054cdd3730b0a"
+        "sha256": "ceeb14ad8be597f54db25a01d0a0b94ee93b4af0bb2fa05b886c0bdd817f350a"
       }
     },
     "android": {
-      "version": "0.9.25",
-      "versionCode": 43,
-      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.25/PocketRemote-External-0.9.25.apk",
-      "bytes": 3314725,
-      "sha256": "9b0ba382aba5e2dab4ebf0f7188a8e050faab3c6044de51696d4ac738b06a5e7"
+      "version": "0.9.26",
+      "versionCode": 44,
+      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.26/PocketRemote-External-0.9.26.apk",
+      "bytes": 3315241,
+      "sha256": "b56249343b2f071acee50f66f7c67d03883b50476f3357e0b613d8d3770c2aa0"
     }
   },
-  "signature": "4HTsqZrZ83aDpG9e9n9QmgkZVZV4WDp1lTtorMfbqQGsTw6QbqGGQodV/aBCSeWb2Bjiifi9cNw+ZwSR2/rADw=="
+  "signature": "gAVBLyY7BaSPeT990BYGSC+O3rN8D+LVmm6YCXA1elJqvWDz96YEQjpQCToUru4e0KN+mGprZh+yrkMCaw4/Cg=="
 }
