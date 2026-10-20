@@ -1,7 +1,7 @@
 ## Download
 
-- [Windows installer](https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.27/PocketRemoteInstaller-External-0.9.27.exe)
-- [Android APK](https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.27/PocketRemote-External-0.9.27.apk)
+- [Windows installer](https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.29/PocketRemoteInstaller-External-0.9.29.exe)
+- [Android APK](https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.29/PocketRemote-External-0.9.29.apk)
 
 Run the Windows installer by double-clicking. Existing settings are preserved. Connect both devices to the same Wi-Fi or your VPN, then scan the PC wizard QR code in the phone app.
 
