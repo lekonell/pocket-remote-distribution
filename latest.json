@@ -1,10 +1,10 @@
 {
   "release": {
     "channel": "external",
-    "version": "0.9.29",
-    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.29.zip",
-    "bytes": 636397,
-    "sha256": "4ecbf6ce891e116d2d3c9a0e80d0600b21d12671843e6cd4d2116b0fe9e03e89",
+    "version": "0.9.30",
+    "url": "https://raw.githubusercontent.com/lekonell/pocket-remote-distribution/main/releases/PocketRemote-External-Update-0.9.30.zip",
+    "bytes": 635417,
+    "sha256": "eb6ad0eaa95344f30290562570d4e762fcb48eadc0891b944a5239ee0d73ec90",
     "files": {
       "bridge/activity.mjs": {
         "bytes": 3994,
@@ -15,8 +15,8 @@
         "sha256": "002324e0ef3eda0d2eb2912b84d0c8e409d32ce106baeb1a740074b27b4bcb51"
       },
       "bridge/agents.mjs": {
-        "bytes": 11047,
-        "sha256": "fb0c4ee39737ec6883f2f108235d28b390435156cc53f2313c25c32afe75b5fe"
+        "bytes": 11329,
+        "sha256": "8497c82827dc53107853a6f746f8d4015b7a754dc1c680ec6f9d0e971924ee9a"
       },
       "bridge/build-installer.py": {
         "bytes": 3624,
@@ -200,7 +200,7 @@
       },
       "launcher/RemoteHostLauncher.cs": {
         "bytes": 17219,
-        "sha256": "2e19af67b52171c432acaaeb92b921344a33da34cb38687cc21f306760a2f804"
+        "sha256": "fd9d57353bad5a8ab41c6fd57ebe9fa325f4740617e7a27c05ce9f2b282cadcc"
       },
       "launcher/RemoteInstaller.cs": {
         "bytes": 7538,
@@ -208,7 +208,7 @@
       },
       "launcher/RemoteSetupWizard.cs": {
         "bytes": 41308,
-        "sha256": "13c1a5f79294560866679f699c4ec27769e3f6949c7a5fe872e1127b0cac0ba9"
+        "sha256": "61cab671cf9538597010aab243b4be18af9ab5772cb0434f7aed1dad412b4705"
       },
       "docs/PC-SETTINGS.md": {
         "bytes": 3875,
@@ -231,8 +231,8 @@
         "sha256": "6691e29b41f031e82c55576b8cc6e336a58c803ee9c596004926626e5b519540"
       },
       "app/src/main/assets/app.js": {
-        "bytes": 66277,
-        "sha256": "8b62eaa10cfa513e3b5b2528da9fb4d897501626bcc0a294a847f0d2288d93ce"
+        "bytes": 66285,
+        "sha256": "a5983999dba8176b3bfb714a1da09dcb3cdbb74ef27578e0d9f2fe39581d5953"
       },
       "app/src/main/assets/changes.js": {
         "bytes": 11047,
@@ -247,8 +247,8 @@
         "sha256": "6ce2db0163a971c42e376f18a0700b655dd04d24364930043d6cf809bed888cd"
       },
       "app/src/main/assets/features.js": {
-        "bytes": 45526,
-        "sha256": "50b53b2eabb12d349fb5f38932dcc6f36b9a669e4c0837123d349070b23aa0d4"
+        "bytes": 42946,
+        "sha256": "8bf3596bcec32301af2f720ffa9ba3c7ed8f5dfc4e08a8a009d0474470e141fe"
       },
       "app/src/main/assets/history.js": {
         "bytes": 3556,
@@ -260,7 +260,7 @@
       },
       "app/src/main/assets/index.html": {
         "bytes": 10987,
-        "sha256": "6b17768b9f0c1eae1ffcce5e4193287b2c311f6deaf6f5d7ff3c75d4aabbce95"
+        "sha256": "c3b3d4933bc1526dffa6b559717ddadc1838f043a3e5bd79d50363374510c0a4"
       },
       "app/src/main/assets/mentions.js": {
         "bytes": 8982,
@@ -295,20 +295,20 @@
         "sha256": "e7a1b226e4b859b723c6081159f823196d202723b640f2c4bff1bedd5b4e94bc"
       },
       "app/src/main/assets/session.js": {
-        "bytes": 25398,
-        "sha256": "11ea5430527357d6eb22df6d1312a6d08fc9e8d127e58726f100094b8381ca64"
+        "bytes": 25720,
+        "sha256": "2f4c9f21cedf7d24b90650ec28651049e9db7931264be2a3f746d0bdb8faa8d8"
       },
       "app/src/main/assets/styles.css": {
         "bytes": 16905,
         "sha256": "cd5e180a319510561af131ffb6c53e68e3b96dcdbd77d2535d05faeac6441500"
       },
       "app/src/main/assets/v03.css": {
-        "bytes": 31022,
-        "sha256": "b72de30dbf74c61a1e889a1e6c8f7d4425d79b004862cee71a4584911af9d0e6"
+        "bytes": 29996,
+        "sha256": "1b4a2404825753a107b3bd16c2e34fb8252a734f37a6e3fcc8cf36af62da25eb"
       },
       "app/src/main/assets/v03.js": {
-        "bytes": 55643,
-        "sha256": "895197b0586dfff697a88249b028b191bc4901ad0d7e8020e4240d4e4b7b5b51"
+        "bytes": 55670,
+        "sha256": "fe2f0a0cf06cf5cbe85e46c15a2c3f15eae7525d99da093bf725567746d20a4c"
       },
       "app/src/main/assets/vendor/markdown-it.LICENSE": {
         "bytes": 1073,
@@ -604,11 +604,11 @@
       },
       "package.json": {
         "bytes": 1582,
-        "sha256": "94beae7471beb9591d49d04f17427a1a9377e1d64b61a4f94f93b0d22aa8b6ea"
+        "sha256": "2901d0c00a796256c3e081a7995e5b0dcae08a81111bcd131873a39e3671864a"
       },
       "package-lock.json": {
         "bytes": 4659,
-        "sha256": "ffbda017ef40e33e9e03b49282706a1ff53d3753b453cf609768d413756ba2eb"
+        "sha256": "37db77417c4692f237919de2e4d846dfdb2a7f43f14fd3ba1729baed17db0620"
       },
       "START-REMOTE.cmd": {
         "bytes": 488,
@@ -624,20 +624,20 @@
       },
       "PocketRemoteHost.exe": {
         "bytes": 19968,
-        "sha256": "77bfa2155668d1c04546a6c95c9df09b746e55b5cd82c13d675fb45b68f8c7e3"
+        "sha256": "6f179a4816f34d19af5e00e13277ca165a18321fe1ffa4e0c9feded7cdd06ab6"
       },
       "PocketRemoteSetup.exe": {
         "bytes": 54784,
-        "sha256": "00e345230679b2fe6f5f0d6f35435f8a2ee8995387753a2249d29b4feca3a985"
+        "sha256": "114ffe47d1175e3c124c6777eb8f13ab0d7d02bc83d20674ad0743550f0e1e9f"
       }
     },
     "android": {
-      "version": "0.9.29",
-      "versionCode": 47,
-      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.29/PocketRemote-External-0.9.29.apk",
-      "bytes": 3319597,
-      "sha256": "4d22b54e150892e9ad590b7684ffb2d15180869236ca28fe884a407fc5486a30"
+      "version": "0.9.30",
+      "versionCode": 48,
+      "url": "https://github.com/lekonell/pocket-remote-distribution/releases/download/v0.9.30/PocketRemote-External-0.9.30.apk",
+      "bytes": 3318281,
+      "sha256": "a6755f51e51388a6239f505d1c81bde215d07c1daab822f4f581dbbe8645fa79"
     }
   },
-  "signature": "hus3rajfhfimohbdspUQBwusz1ODjEGgZ+NL4Ge6XpQixaPPqzScJ1CM6FLj6BdIeFe4F2e2xIFmAJepdkF6BQ=="
+  "signature": "DjixsO0ULy4Gunw9srne8sQOfletEAhEmg20nSrOt/hIqSoTzS0Rmww61Eih1goCbITBr0Y7x+FGfUA1u5dUCg=="
 }
